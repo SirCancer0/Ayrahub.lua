@@ -1,9 +1,34 @@
 return {
     Fisch = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+        ["Kncrypt Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
     },
     MM2 = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
         ["testHub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+    },
+    DeadRails = {
+        ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+    },
+    bluelockrivals = {
+        ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+    },
+    Rivals = {
+        ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+    },
+    Universal = {
+        ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+    },
+    arsenal = {
+        ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+    },
+    bladeball = {
+        ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+    },
+    bloxfruits = {
+        ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
+    },
+    bedwars = {
+        ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
     }
 }
