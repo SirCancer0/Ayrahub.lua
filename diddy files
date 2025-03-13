@@ -1,8 +1,4 @@
-local tabs = {
-    MM2 = guilib:NewTab({name = "MM2 Scripts", icon = "rbxassetid://17873742976"}),
-    Fisch = guilib:NewTab({name = "Fisch Scripts", icon = "rbxassetid://17873742976"})
-    Rivals = guilib:NewTab({name = "Rivals Scripts", icon = "rbxassetid://17873742976"})
-}
+
 
 return {
     Fisch = {
