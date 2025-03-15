@@ -2,7 +2,6 @@ return {
     Fisch = {
         ["Rybowe Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/2ploits/rybowehub/refs/heads/main/fischacbypassed'))()"},
         ["Kncrypt Hub"] = {Script = "loadstring(game:HttpGet('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/Kncrypt/refs/heads/main/sources/Fisch.lua'))()"},
-        ["Alchemy Hub"] = {Script = "loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()"},
         ["Ronix Hub"] = {Script = "loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/4a8848fbc1047bcc62c49e797384e9ab.lua"))()"},
     },
     MM2 = {
